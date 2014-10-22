@@ -5,7 +5,7 @@ And these parts just obey the licenses as they claimed.
 
 The files under /replay folder are works by the author(long123king@163.com), and they obey GPL license.
 
-Copyright (c) 2013-2014 Daniel King(long123king@163.com). All rights reserved.
+Copyright (c) 2013-2014 Daniel King(long123king@163.com).
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
