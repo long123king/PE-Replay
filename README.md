@@ -11,6 +11,7 @@ It will output 2 csv files:
 1. frames_001.clg
 2. blocks_001.clg
 
+
 These files can be easily processed by Microsoft Excel or by R language. 
-Other project **timeline** is a front end based on django frameworks, it can help view these csv files.
+Other project [**timeline**](https://github.com/long123king/timeline) is a front end based on django frameworks, it can help view these csv files.
 
